@@ -30,7 +30,7 @@ seguem abaixo.
 
 ## 📘 Descrição do eBook
 
-## A Jornada do Aprendizado
+# A Jornada do Aprendizado
 
 Embarque em uma aventura épica onde ciência e imaginação se encontram.
 Neste eBook, você vai descobrir os principais métodos de Machine Learning explicados de forma simples, direta e com exemplos do mundo real. Cada técnica é apresentada como uma etapa da jornada de um herói — desde a regressão linear, que prevê caminhos futuros, até o aprendizado por reforço, onde a superação de desafios gera recompensas.
@@ -82,7 +82,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/80695781?v=4"
     />
     <p>&nbsp&nbsp&nbspVicente Nobre<br>
     &nbsp&nbsp&nbsp
@@ -99,4 +99,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/VctNobre)
+⌨️ com 💜 por [Vicente Nobre](https://github.com/VctNobre)
