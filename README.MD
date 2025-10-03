@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/VctNobre/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20A%20jornada%20do%20Aprendiz.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/VctNobre/prompts-recipe-to-create-a-ebook/blob/main/output/EBOOK%20-%20A%20jornada%20do%20Aprendizado%20.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 
 ## 📘 Descrição do eBook
