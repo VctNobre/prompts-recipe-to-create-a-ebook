@@ -88,7 +88,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/VctNobre">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/vicente-nobre-94a777222">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/vicente-nobre-94a777222">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/vicent.nbr/">
     Instagram</a>
